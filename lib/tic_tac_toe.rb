@@ -57,3 +57,4 @@ def current_player
   end 
   return player
 end 
+
