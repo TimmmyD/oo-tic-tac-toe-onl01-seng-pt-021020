@@ -48,4 +48,5 @@ def turn_count
   return turn
 end
 
-def 
+def current_player
+  
