@@ -47,3 +47,5 @@ def turn_count
   end
   return turn
 end
+
+
